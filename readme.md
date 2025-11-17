@@ -1,15 +1,8 @@
-<p align="center">
-  <img src="https://vitest.dev/logo-shadow.svg" height="128">
-</p>
+🧪 Vitest Lab
 
-<h1 align="center">Vitest Learning Playground</h1>
+Playground to test/learn `Vitest` + `TypeScript`
 
-> [!NOTE]
-> This repository is for learning and experimenting with `vitest`
-
-This is a demo project that showcases examples and serves as a guide to implement `vitest` with `typescript`.
-
-## References
+## Resources
 
 - [Vitest - `Documentation`](https://vitest.dev)
 - [Rapid Testing with Vitest - `Course`](https://vueschool.io/courses/rapid-testing-with-vitest)
@@ -19,7 +12,7 @@ This is a demo project that showcases examples and serves as a guide to implemen
 ## Scripts
 
 ```sh
-npm run test # Run all tests on watch mode
+npm run test     # Run all tests in watch mode
 npm run test sum # Run a specific test
 ```
 
