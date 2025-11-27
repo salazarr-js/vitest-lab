@@ -67,3 +67,8 @@ npm run test sum # Run a specific test
 - [MSW - `setupServer()`](https://mswjs.io/docs/api/setup-server/)
 - [MSW - `http.get()`](https://mswjs.io/docs/api/http/#httpget)
 - [MSW - `http.json()`](https://mswjs.io/docs/api/http-response#httpresponsejsonbody-init)
+
+
+## Vue
+- https://test-utils.vuejs.org/
+- [Testing Vue 3 apps with Vue Test Utils](https://www.youtube.com/playlist?list=PLC2LZCNWKL9ahK1IoODqYxKu5aA9T5IOA)
